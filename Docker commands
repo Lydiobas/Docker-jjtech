@@ -134,3 +134,6 @@ docker-compose ps        # To list running containers
 docker-compose logs       # To view logs of running containers
 docker-compose rm -f      # To remove containers
 doc
+
+
+fixed
